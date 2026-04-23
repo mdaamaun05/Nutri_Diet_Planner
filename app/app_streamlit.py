@@ -3,7 +3,7 @@ from rag import answer_question
 import asyncio  
 
 st.set_page_config(page_title="NutriChef AI: Smart Recipe & Nutrition Assistant ⭐", layout="centered")
-st.title("🍳 Smart Recipe Explorer: Ingredient-to-Table Cooking Assistant")
+st.title("🍳 Smart Recipe Explorer: Ingredient-to-Table Cooking Assistant ⭐")
 
 # Sample ingredient inputs
 sample_ingredients = [
