@@ -2,7 +2,7 @@ import streamlit as st
 from rag import answer_question
 import asyncio  
 
-st.set_page_config(page_title="Smart Recipe Explorer: Ingredient-to-Table Cooking Assistant", layout="centered")
+st.set_page_config(page_title="NutriChef AI: Smart Recipe & Nutrition Assistant ⭐", layout="centered")
 st.title("🍳 Smart Recipe Explorer: Ingredient-to-Table Cooking Assistant")
 
 # Sample ingredient inputs
